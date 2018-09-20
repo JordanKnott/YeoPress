@@ -1,5 +1,6 @@
 ## Versions
 
+- **2.0.3:** Replaced wrench-js with chmodr for handling permissions
 - **2.0.1:** Updated yeoman-generator to fix some things
 - **2.0.0:** Updated to new file api
 - **1.5.0:** Cached busting for remote resources
